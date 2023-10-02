@@ -4,6 +4,10 @@
     height: 300px;
 }
 
+.gallery {
+    display: flex;
+}
+
 * {
     box-sizing: border-box;
 }
