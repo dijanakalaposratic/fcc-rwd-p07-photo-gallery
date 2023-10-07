@@ -18,6 +18,11 @@
     gap: 16px;
 }
 
+.gallery::after {
+    content: "";
+    width: 350px;
+}
+
 * {
     box-sizing: border-box;
 }
